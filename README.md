@@ -2,6 +2,8 @@
 
 The world's best billing software with voice-controlled inventory management, advanced analytics, and comprehensive e-commerce features.
 
+<!-- Dummy change for testing PR workflow -->
+
 ## Features
 
 - 🎯 **Smart Billing System** - Generate professional invoices and receipts
